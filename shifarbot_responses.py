@@ -15,7 +15,7 @@ shifar_quotes = [
 	'I don\'t hear you bitching about (insert team member that is definitely playing better than he is).',
 	'I might have given myself a ban on draft kings but that won\'t stop me from playing blackjack on Caeser\'s.',
 	'Grinding Brotha.',
-    'Hoboken tonight?'
+	'Hoboken tonight?'
 ]
 
 # function for getting current disconnect count
@@ -42,7 +42,7 @@ def handle_response(message) -> str:
 	if p_message == '!shifar_disconnects':
 		# call function to get current disconnect total and print
 		total_dc = get_total_dc()
-		return "Shifar has disconnected while playing games with his friends " + total_dc + " times since October 2023"
+		return "Shifar has disconnected while playing games with his friends " + total_dc + "times since October 2023"
 
 	if p_message == '!shifar_disconnected':
 		# call function to update the disconnect total
