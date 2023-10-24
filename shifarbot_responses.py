@@ -32,8 +32,8 @@ def get_total_dc() -> int:
 def update_total_dc() -> int:
 	f = open("shifarbot_dccount.txt", "r")
 	current_dc = f.read()
-	new_dc = int(current_dc) + 1
-	new_dc = str(new_dc)
+	new_dc = str(int(current_dc) + 1)
+	#new_dc = str(new_dc)
 	f = open("shifarbot_dccount.txt", "w")
 	f.write(new_dc)
 	f.close()
