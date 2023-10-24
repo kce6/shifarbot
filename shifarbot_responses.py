@@ -14,7 +14,8 @@ shifar_quotes = [
 	'Just because I disconnected doesn\'t mean we lost the round, you\'re being dramatic.',
 	'I don\'t hear you bitching about (insert team member that is definitely playing better than he is).',
 	'I might have given myself a ban on draft kings but that won\'t stop me from playing blackjack on Caeser\'s.',
-	'Grinding Brotha.'
+	'Grinding Brotha.',
+    'Hoboken tonight?'
 ]
 
 # function for getting current disconnect count
