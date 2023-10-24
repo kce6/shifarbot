@@ -14,7 +14,7 @@ shifar_quotes = [
 	'I\'ve only disconnected 4 times this game, is it really that big of a deal?',
 	'Just because I disconnected doesn\'t mean we lost the round, you\'re being dramatic.',
 	'I don\'t hear you bitching about (insert team member that is definitely playing better than he is).',
-	'I might have given myself a ban on draft kings but that won\'t stop me from playing blackjack on Caeser\'s.',
+	'I might have given myself a ban on draft kings but that won\'t stop me from playing blackjack on Caesar\'s.',
 	'Grinding Brotha.',
 	'Hoboken tonight?',
     'What do you mean the US lost the Vietname War?  We killed more of them!',
