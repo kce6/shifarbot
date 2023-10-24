@@ -18,20 +18,23 @@ shifar_quotes = [
 	'Hoboken tonight?'
 ]
 
+# Set working directory
+BASEDIR = os.getenv('SHIFARBOT_WORKINGDIR')
+
 # function for getting current disconnect count
 def get_total_dc() -> int:
-	f = open("/opt/bots/shifarbot/shifarbot_dccount.txt", "r")
+	f = open("shifarbot_dccount.txt", "r")
 	total_dc = f.read()
 	f.close()
 	return total_dc
 
 # function for updating disconnect count and writing to file
 def update_total_dc() -> int:
-	f = open("/opt/bots/shifarbot/shifarbot_dccount.txt", "r")
+	f = open("shifarbot_dccount.txt", "r")
 	current_dc = f.read()
 	new_dc = int(current_dc) + 1
 	new_dc = str(new_dc)
-	f = open("/opt/bots/shifarbot/shifarbot_dccount.txt", "w")
+	f = open("shifarbot_dccount.txt", "w")
 	f.write(new_dc)
 	f.close()
 
