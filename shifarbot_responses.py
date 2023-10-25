@@ -26,7 +26,8 @@ shifar_quotes = [
     'Persia was the only country to never be colonized, if that doesn\'t scream \"I\'m better than you\", I don\'t know what does.',
     'Persia was a global superpower before the Muslims ruined it.',
     'I swear I just picked my controller up and the game disconnected me.',
-    'I\'m in a Valorant game, can you guys wait?'
+    'I\'m in a Valorant game, can you guys wait?',
+    'I did not throw a slide tackle every single time I got beat.....It was every other time I got beat.',
 ]
 
 # get current working directory
