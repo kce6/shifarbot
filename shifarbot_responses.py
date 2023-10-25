@@ -24,7 +24,9 @@ shifar_quotes = [
     'Why does Tony hate me so much? (10 seconds after saying Tony has an almond peen)',
     '(Shifar has been forcefully disconnected from the chat)',
     'Persia was the only country to never be colonized, if that doesn\'t scream \"I\'m better than you\", I don\'t know what does.',
-    'Persia was a global superpower before the Muslims ruined it.'
+    'Persia was a global superpower before the Muslims ruined it.',
+    'I swear I just picked my controller up and the game disconnected me.',
+    'I\'m in a Valorant game, can you guys wait?'
 ]
 
 # get current working directory
