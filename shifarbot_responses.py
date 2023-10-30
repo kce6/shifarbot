@@ -17,7 +17,7 @@ shifar_quotes = [
 	'I might have given myself a ban on draft kings but that won\'t stop me from playing blackjack on Caesar\'s.',
 	'Grinding Brotha.',
 	'Hoboken tonight?',
-    'What do you mean the US lost the Vietname War?  We killed more of them!',
+    'What do you mean the US lost the Vietnam War?  We killed more of them!',
     'I\'m actually Persian, NOT a dirty arab.  Get it right.',
     'Actually that\'s not what I\'m seeing as the first result on Google.',
     'So..............Hoboken tonight?',
@@ -28,6 +28,12 @@ shifar_quotes = [
     'I swear I just picked my controller up and the game disconnected me.',
     'I\'m in a Valorant game, can you guys wait?',
     'I did not throw a slide tackle every single time I got beat.....It was every other time I got beat.',
+    'My church burnt down, now my only religion is getting as many nuts in as possible before I die.',
+    'Oh don\'t worry, he\'ll stop here and say goodbye on the way out.',
+    'Wait 5 minutes, I\'m in a Valorant game.',
+    'Why does Tony hate me so much? (After asking Tony to play L4D2)',
+    'Why does Tony hate me so much? (After asking Tony how his day went)',
+    'Why does Tony hate me so much? (After after telling Tony he\'s going to show up at his house in 5 minutes)'
 ]
 
 # get current working directory
