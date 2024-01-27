@@ -40,6 +40,8 @@ shifar_quotes = [
     'I can\'t put the router in my room, it needs to connect through the windows!',
     'I\'m just going to get to level 32 and then I\'m gonna get off.',
     'I\'m just going to watch you attack the Jourmuntide....hey can I try and catch it after Tony?',
+    'You\'ve got too much time on your hands brotha!',
+    'Tony I\'m down here in the mines suffering so you can have fun on the game!',
 ]
 
 # get current working directory
