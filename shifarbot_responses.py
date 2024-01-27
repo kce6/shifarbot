@@ -13,7 +13,7 @@ shifar_quotes = [
 	'You\'ve been to my house, you understand why I can\'t just run a cable.',
 	'I\'ve only disconnected 4 times this game, is it really that big of a deal?',
 	'Just because I disconnected doesn\'t mean we lost the round, you\'re being dramatic.',
-	'I don\'t hear you bitching about (insert team member that is definitely playing better than he is).',
+	'I don\'t hear you bitching about (insert team member that is definitely playing better than I am).',
 	'I might have given myself a ban on draft kings but that won\'t stop me from playing blackjack on Caesar\'s.',
 	'Grinding Brotha.',
 	'Hoboken tonight?',
@@ -33,7 +33,13 @@ shifar_quotes = [
     'Wait 5 minutes, I\'m in a Valorant game.',
     'Why does Tony hate me so much? (After asking Tony to play L4D2)',
     'Why does Tony hate me so much? (After asking Tony how his day went)',
-    'Why does Tony hate me so much? (After after telling Tony he\'s going to show up at his house in 5 minutes)'
+    'Why does Tony hate me so much? (After after telling Tony he\'s going to show up at his house in 5 minutes)',
+    'Don\'t worry Tony, if you\'re out of a job, then I\'m out of a job',
+    'Don\'t worry guys, I got the T-Mobile 5G Router.  No more bad wifi.',
+    'Its straight data.',
+    'I can\'t put the router in my room, it needs to connect through the windows!',
+    'I\'m just going to get to level 32 and then I\'m gonna get off.',
+    'I\'m just going to watch you attack the Jourmuntide....hey can I try and catch it after Tony?',
 ]
 
 # get current working directory
